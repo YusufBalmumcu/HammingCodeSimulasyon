@@ -3,7 +3,7 @@
 Bu proje, kullanıcının girdiği 4, 8 veya 16 bitlik veriyi Hamming koduna dönüştüren ve kullanıcının belirttiği bir biti bozmasına izin veren bir Windows Forms uygulamasıdır. Uygulama ayrıca bozuk veriyi analiz ederek hangi bitin hatalı olduğunu belirler ve kullanıcıya bildirir.
 
 - Demonstrasyon videosu
-[Video Linki](https://youtu.be/mpij6ox2iUA)
+- [Video Linki](https://youtu.be/mpij6ox2iUA)
 
 ## Özellikler
 
@@ -19,7 +19,7 @@ Bu proje, kullanıcının girdiği 4, 8 veya 16 bitlik veriyi Hamming koduna dö
 - Projeyi Visual Studio ile açıp derleyip çalıştırın ya da Release klasörünün içindeki executable ı kullanın.
 
 ## Kullanım
--Uygulamayı başlatın.
+- Uygulamayı başlatın.
 - 4, 8 veya 16 bitlik bir binary veri girin ve Veri Ekle butonuna tıklayın.
 - Hamming kodu görüntülenecektir.
 - Veriyi Boz butonuna tıklayarak bozulacak bitin pozisyonunu girin.
