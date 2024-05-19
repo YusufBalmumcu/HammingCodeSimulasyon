@@ -1,0 +1,17 @@
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\bin\Debug\net8.0-windows\HammingCodeProject.exe
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\bin\Debug\net8.0-windows\HammingCodeProject.deps.json
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\bin\Debug\net8.0-windows\HammingCodeProject.runtimeconfig.json
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\bin\Debug\net8.0-windows\HammingCodeProject.dll
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\bin\Debug\net8.0-windows\HammingCodeProject.pdb
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.csproj.GenerateResource.cache
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.AssemblyInfoInputs.cache
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.AssemblyInfo.cs
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.csproj.CoreCompileInputs.cache
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.dll
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\refint\HammingCodeProject.dll
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.pdb
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.genruntimeconfig.cache
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\ref\HammingCodeProject.dll
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.MainForm.resources
+C:\Users\lvlen\source\repos\HammingCodeProject\HammingCodeProject\obj\Debug\net8.0-windows\HammingCodeProject.Properties.Resources.resources
